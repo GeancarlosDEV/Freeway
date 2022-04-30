@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/tema.wav-a415a1c82daf16e6668dd48b31a47ff1.sample"
+
+[deps]
+
+source_file="res://Asserts/sons/tema.wav"
+dest_files=[ "res://.import/tema.wav-a415a1c82daf16e6668dd48b31a47ff1.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
